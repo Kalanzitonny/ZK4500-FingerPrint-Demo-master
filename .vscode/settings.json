@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/tonny/Public/Demo&Doc/java/lib-jar/ZKFingerReader.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.base.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.controls.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.fxml.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.graphics.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.media.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.swing.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx.web.jar",
+        "/home/tonny/Desktop/javafx-sdk-20/lib/javafx-swt.jar"
+    ]
+}
